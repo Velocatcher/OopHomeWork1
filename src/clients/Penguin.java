@@ -8,12 +8,12 @@ public class Penguin extends Animal{
     }
     @Override
     protected void fly() {
-        System.out.println(getType() + " is not flies");
+//        System.out.println(getType() + " is not flies");
     }
 
 
     @Override
     public void crawl() {
-        System.out.println(getType() + " is not crawls");
+//        System.out.println(getType() + " is not crawls");
     }
 }

@@ -9,14 +9,14 @@ public class Fish extends Animal{
 
     @Override
     protected void fly() {
-        System.out.println(getType() + " is not flies");
+//        System.out.println(getType() + " is not flies");
     }
     @Override
     protected void toGo() {
-        System.out.println(getType() + " is not moves");
+//        System.out.println(getType() + " is not moves");
     }
     @Override
     public void crawl() {
-        System.out.println(getType() + " is not crawls");
+//        System.out.println(getType() + " is not crawls");
     }
 }

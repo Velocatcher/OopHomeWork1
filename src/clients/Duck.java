@@ -10,6 +10,6 @@ public class Duck extends Animal{
 
     @Override
     public void crawl() {
-        System.out.println(getType() + " is not crawls");
+//        System.out.println(getType() + " is not crawls");
     }
 }

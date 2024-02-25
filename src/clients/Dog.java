@@ -8,7 +8,7 @@ public class Dog extends Animal{
     }
     @Override
     protected void fly() {
-        System.out.println(getType() + " is not flies");
+//        System.out.println(getType() + " is not flies");
     }
 
     @Override
